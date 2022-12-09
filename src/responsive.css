@@ -1,0 +1,68 @@
+ @media only screen and (min-width: 768px) {
+
+.app {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 10px;
+  min-width: 1024px;;
+}
+
+.feed {
+  border-left: 2px solid var(--twitter-background);
+  border-right: 1px solid var(--twitter-background);
+}
+
+
+.sidebar {
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
